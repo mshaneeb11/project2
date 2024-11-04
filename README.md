@@ -1,4 +1,4 @@
 # NEW PROJECT
 
 This project was created from local system.
-created by Mohammad Shaneeb.
+Created by Mohammad Shaneeb.
